@@ -32,10 +32,10 @@ series of products.
 - [ ] How to use this new fancy server
   - [ ] Text generation
     - [ ] 3rd party clients
-    - [ ] [Built-in KoboldAI Lite](#KoboldAI Lite status)
+    - [ ] [Built-in KoboldAI Lite](#koboldai-lite-status)
   - [ ] Image generation
     - [ ] 3rd party clients
-    - [ ] [Built-in stableUI]()
+    - [ ] Built-in stableUI
 - [ ] Deep magic
   - [ ] training LLM finetunes
   - [ ] merging models
